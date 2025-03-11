@@ -64,3 +64,30 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+•Wat zijn de voordelen van geautomatiseerde tests in Laravel?
+Geautomatiseerd testen in Laravel helpt bugs vroegtijdig te ontdekken door te garanderen dat nieuwe wijzigingen bestaande functies niet verstoren. Het bespaart tijd door het automatiseren van repetitieve controles, waardoor de noodzaak voor handmatig testen afneemt.
+
+
+
+
+•Wat is het verschil tussen PHPUnit en PEST?
+PHPUnit is Laravels standaard testframework, dat gebruikmaakt van een gestructureerde, op klassen gebaseerde aanpak. Pest is een eenvoudiger alternatief met een schonere syntaxis. Pest draait op PHPUnit, dus beide kunnen samen worden gebruikt.
+
+
+•Wat vond je het moeilijkste aan deze opdracht?
+het concept van testen begrijpen
+
+
+
+
+
+
+
+
+
+
+
